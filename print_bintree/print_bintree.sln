@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "print_bintree", "print_bintree\print_bintree.vcxproj", "{02EE0BB4-7155-4F7F-8898-2BE28533DFEC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "print_bintree", "print_bintree.vcxproj", "{02EE0BB4-7155-4F7F-8898-2BE28533DFEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {727DC1CF-7AF2-4EF8-9401-5A27009B92FF}
+		SolutionGuid = {59A1DC48-BDB4-419F-ABA5-579F4340DD0A}
 	EndGlobalSection
 EndGlobal
