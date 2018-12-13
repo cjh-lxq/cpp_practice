@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "动态规划1-硬币的个数", "动态规划1-硬币的个数.vcxproj", "{A557B9D5-11C4-43DB-942B-5F94AA77C25C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A557B9D5-11C4-43DB-942B-5F94AA77C25C}.Debug|x64.ActiveCfg = Debug|x64
+		{A557B9D5-11C4-43DB-942B-5F94AA77C25C}.Debug|x64.Build.0 = Debug|x64
+		{A557B9D5-11C4-43DB-942B-5F94AA77C25C}.Debug|x86.ActiveCfg = Debug|Win32
+		{A557B9D5-11C4-43DB-942B-5F94AA77C25C}.Debug|x86.Build.0 = Debug|Win32
+		{A557B9D5-11C4-43DB-942B-5F94AA77C25C}.Release|x64.ActiveCfg = Release|x64
+		{A557B9D5-11C4-43DB-942B-5F94AA77C25C}.Release|x64.Build.0 = Release|x64
+		{A557B9D5-11C4-43DB-942B-5F94AA77C25C}.Release|x86.ActiveCfg = Release|Win32
+		{A557B9D5-11C4-43DB-942B-5F94AA77C25C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D824940-E158-4876-9AC6-5FB9E0FE0556}
+	EndGlobalSection
+EndGlobal
